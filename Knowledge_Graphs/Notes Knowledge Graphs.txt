@@ -1,0 +1,7 @@
+The knowledge graph files provided in the "Knowledge Graphs" folder are those involved in the link prediction experiments.
+
+The knowledge graph files of the link classification experiments are too large so we can put them on this platform.
+
+Some files are in ZIP format because they are very large.
+
+The "Origin Datafiles" folder is missing the OWL files of the ontologies.
