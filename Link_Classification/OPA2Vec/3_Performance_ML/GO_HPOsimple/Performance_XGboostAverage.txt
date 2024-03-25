@@ -1,0 +1,90 @@
+PARTTION 1
+WAF: 0.7057229117745724
+fmeasure noninteract: 0.7078787878787879
+fmeasure interact: 0.7035670356703566
+Precision: 0.7087980173482032
+Recall: 0.6984126984126984
+Accuracy: 0.7057387057387058
+Auc: 0.7815958292148768
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 2
+WAF: 0.6922177566678845
+fmeasure noninteract: 0.6974789915966387
+fmeasure interact: 0.6869565217391305
+Precision: 0.6991150442477876
+Recall: 0.6752136752136753
+Accuracy: 0.6923076923076923
+Auc: 0.761494779809798
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 3
+WAF: 0.6865766337351581
+fmeasure noninteract: 0.6951871657754011
+fmeasure interact: 0.6779661016949152
+Precision: 0.6976744186046512
+Recall: 0.6593406593406593
+Accuracy: 0.6868131868131868
+Auc: 0.7584683665269747
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 4
+WAF: 0.6886219420556066
+fmeasure noninteract: 0.6912832929782082
+fmeasure interact: 0.685960591133005
+Precision: 0.6919254658385093
+Recall: 0.6800976800976801
+Accuracy: 0.6886446886446886
+Auc: 0.756920870473984
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 5
+WAF: 0.7032856444264213
+fmeasure noninteract: 0.7014742014742015
+fmeasure interact: 0.7050970873786409
+Precision: 0.7008443908323281
+Recall: 0.7094017094017094
+Accuracy: 0.7032967032967034
+Auc: 0.7827676325844823
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 6
+WAF: 0.693524581365393
+fmeasure noninteract: 0.6924019607843138
+fmeasure interact: 0.694647201946472
+Precision: 0.6921212121212121
+Recall: 0.6971916971916972
+Accuracy: 0.6935286935286935
+Auc: 0.7700328432929165
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 7
+WAF: 0.6898582918993059
+fmeasure noninteract: 0.6913730255164033
+fmeasure interact: 0.6883435582822086
+Precision: 0.6917385943279901
+Recall: 0.684981684981685
+Accuracy: 0.6898656898656899
+Auc: 0.7668961075554481
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 8
+WAF: 0.6970900891227317
+fmeasure noninteract: 0.7026378896882494
+fmeasure interact: 0.691542288557214
+Precision: 0.7046894803548795
+Recall: 0.6788766788766789
+Accuracy: 0.6971916971916972
+Auc: 0.7681424531241381
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 9
+WAF: 0.6951431557844965
+fmeasure noninteract: 0.6921653300431833
+fmeasure interact: 0.6981246218995765
+Precision: 0.6910179640718563
+Recall: 0.7053789731051344
+Accuracy: 0.6951740989615149
+Auc: 0.7699353078326183
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
+PARTTION 10
+WAF: 0.705538950689036
+fmeasure noninteract: 0.7078787878787879
+fmeasure interact: 0.7032019704433498
+Precision: 0.7093167701863354
+Recall: 0.6971916971916972
+Accuracy: 0.7055589492974954
+Auc: 0.7754895199882974
+Best parameters set found on development set:{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}
